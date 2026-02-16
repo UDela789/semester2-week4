@@ -15,5 +15,8 @@
     Store your answer in d
     print your final answer
     */
+    for(int k=0; k<5; ++k;){
+      [k]
+    }
     return 0;
  }
